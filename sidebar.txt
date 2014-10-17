@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[qul:home|Door43 (qul)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-qul|d43-qul repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-qul/archive/master.zip|d43-qul.zip]]
+
+**Recent Changes**
+{{changes>ns = qul}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/qul|Ethnologue data]]
+
